@@ -1,6 +1,6 @@
 {
   "name": "streamcsvjson",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "main": "lib/streamcsvjson.js",
   "description": "Reads a CSV file and outputs JSON",
   "homepage": "https://github.com/hybrisCole/streamcsvjson.git",
@@ -25,13 +25,15 @@
     "grunt-contrib-watch": "^0.6.1",
     "load-grunt-tasks": "^0.4.0",
     "time-grunt": "^0.3.1",
-    "jshint-stylish": "^0.2.0",
+    "jshint-stylish": "^0.2.0"
+  },
+  "dependencies":{
     "commander":"2.2.0"
   },
   "scripts": {
     "test": "grunt"
   },
   "bin": {
-    "filesearch" : "lib/streamcsvjson.js"
+    "streamcsvjson" : "lib/streamcsvjson.js"
   }
 }
