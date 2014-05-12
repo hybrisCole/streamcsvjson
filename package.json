@@ -1,6 +1,6 @@
 {
   "name": "streamcsvjson",
-  "version": "0.0.5",
+  "version": "0.0.1",
   "main": "lib/streamcsvjson.js",
   "description": "Reads a CSV file and outputs JSON",
   "homepage": "https://github.com/hybrisCole/streamcsvjson.git",
