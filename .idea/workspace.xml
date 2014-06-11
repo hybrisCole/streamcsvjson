@@ -26,7 +26,7 @@
       <file leaf-file-name="streamcsvjson.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/streamcsvjson.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="34" selection-start="798" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="880">
+            <state line="26" column="34" selection-start="798" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="342" max-vertical-offset="880">
               <folding />
             </state>
           </provider>
@@ -35,25 +35,25 @@
       <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="4" selection-start="871" selection-end="871" vertical-scroll-proportion="-9.225806" vertical-offset="418" max-vertical-offset="1056">
+            <state line="32" column="4" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1056">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="textParser.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="textParser.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/textParser.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="50" selection-start="1662" selection-end="1680" vertical-scroll-proportion="0.6745283" vertical-offset="990" max-vertical-offset="4972">
+            <state line="246" column="36" selection-start="7370" selection-end="7370" vertical-scroll-proportion="-6.1538463" vertical-offset="5252" max-vertical-offset="6204">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="httpHandler.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="httpHandler.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/httpHandler.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="29" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
+            <state line="15" column="22" selection-start="308" selection-end="308" vertical-scroll-proportion="0.48283753" vertical-offset="119" max-vertical-offset="1122">
               <folding />
             </state>
           </provider>
@@ -109,7 +109,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -130,6 +129,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,10 +186,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32739726" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32739726" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24861" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -533,6 +533,20 @@
         <state line="2" column="6" selection-start="35" selection-end="35" vertical-scroll-proportion="0.095032394" vertical-offset="0" max-vertical-offset="463" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="4" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1056">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/textParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="246" column="36" selection-start="7370" selection-end="7370" vertical-scroll-proportion="-6.1538463" vertical-offset="5252" max-vertical-offset="6204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/streamcsvjson.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="34" selection-start="798" selection-end="808" vertical-scroll-proportion="0.0" vertical-offset="456" max-vertical-offset="880">
@@ -540,23 +554,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="4" selection-start="871" selection-end="871" vertical-scroll-proportion="-9.225806" vertical-offset="418" max-vertical-offset="1056">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/httpHandler.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="29" selection-start="315" selection-end="315" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/textParser.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="50" selection-start="1662" selection-end="1680" vertical-scroll-proportion="0.6745283" vertical-offset="990" max-vertical-offset="4972">
+        <state line="15" column="22" selection-start="308" selection-end="308" vertical-scroll-proportion="0.48283753" vertical-offset="119" max-vertical-offset="1122">
           <folding />
         </state>
       </provider>
